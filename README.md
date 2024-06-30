@@ -66,7 +66,7 @@
     flutter pub get
     flutter run
     ```
-Fork the repository and create your branch from main. Make your changes and ensure they work as expected. Test your changes thoroughly. Open a pull request with a detailed description of your contributions. Please read CONTRIBUTING.md for more details on how to contribute to this project.
+Fork the repository and create your branch from main. Make your changes and ensure they work as expected. Test your changes thoroughly. Open a pull request with a detailed description of your contributions. Please read [CONTRIBUTING.md](https://github.com/shyama7004/TaskBee/blob/main/CONTRIBUTING.md) for more details on how to contribute to this project.
 
 ## Usage
 
