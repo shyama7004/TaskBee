@@ -1,0 +1,11 @@
+# Flutter/Dart/Pub related
+**/doc/api/
+.dart_tool/
+.packages
+.pub/
+build/
+# Visual Studio Code related
+.vscode/
+# IntelliJ related
+.idea/
+*.iml
