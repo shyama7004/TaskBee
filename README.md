@@ -1,16 +1,22 @@
-<div align="center"> 
-    <h1>
-    <u>TaskBee</u>
-    </h1>
-</div>
+<p align="center">
+  <img src="https://github.com/shyama7004/TaskBee/blob/main/abstract-origami-triangle-672ld.png" alt="TaskBee Logo" width="200" height="200">
+</p>
 
-<div align="center">
-  <img src="https://github.com/shyama7004/TaskBee/blob/main/abstract-origami-triangle-672ld.png" alt="TaskBee Logo">
-</div>
+<h1 align="center">TaskBee</h1>
 
-<div align="center">
+<p align="center">
   TaskBee is a task management app built with Flutter and Django, designed to help you manage your daily tasks effortlessly. Set tasks, get reminders, track completion, and celebrate your achievements!
-</div>
+</p>
+
+<p align="center">
+  <a href="#Features">Features</a> •
+  <a href="#installation">Installation</a> •
+  <a href="https://github.com/shyama7004/AudioZen/blob/main/CONTRIBUTING.md">Contributing</a> •
+  <a href="#license">License</a> •
+  <a href="#contact">Contact</a>
+</p>
+
+---
 
 
 ## 📲 Features
@@ -29,10 +35,11 @@
 
 ### Prerequisites
 
-- [Flutter](https://flutter.dev/docs/get-started/install)
-- [Django](https://www.djangoproject.com/download/)
-- [Python](https://www.python.org/downloads/)
-- [pip](https://pip.pypa.io/en/stable/installation/)
+  [![Flutter](https://img.shields.io/badge/Flutter-Flutter.com-8B0000?style=for-the-badge)](https://flutter.dev/docs/get-started/install)
+  [![Django](https://img.shields.io/badge/Django-Django.com-00008B?style=for-the-badge)](https://www.djangoproject.com/download/)
+  [![Python](https://img.shields.io/badge/Python-Python.com-013220?style=for-the-badge)](https://www.python.org/downloads/)
+  [![pip](https://img.shields.io/badge/pip-pip.com-8B8000?style=for-the-badge)](https://pip.pypa.io/en/stable/installation/)
+
 
 ### Installation
 
@@ -105,14 +112,15 @@ git push origin feature/AmazingFeature
 ```
 5. Open a Pull Request.
 ## 📜 License
-Distributed under the MIT License. See LICENSE for more information.
+Distributed under the [MIT License](https://github.com/shyama7004/TaskBee/blob/main/LICENSE). See [LICENSE](https://github.com/shyama7004/TaskBee/blob/main/LICENSE) for more information.
 
-📧 Contact
-Your Name - your-email@example.com
+## 📧 Contact
+[![Mail](https://img.shields.io/badge/Mail-sujatabisoyi@gmail.com-6b5b95?style=for-the-badge)](sujatabisoyi@gmail.com)
 
-Project Link: https://github.com/yourusername/taskzen
+[![Project Link](https://img.shields.io/badge/Project_Link:-https://github.com/shyama7004/TaskBee-6b5b95?style=for-the-badge)](https://github.com/shyama7004/taskzen)
 
-🙏 Acknowledgements
-Flutter
-Django
+
+## 🙏 Acknowledgements
+[Flutter](https://flutter.dev/?gad_source=1&gclid=CjwKCAjwhIS0BhBqEiwADAUhc_x_88SXjaFE7llpmPimwziDez_BEtvUEAUuvraQC7xcbpqp48Cp6xoCPd0QAvD_BwE&gclsrc=aw.ds)<br>
+[Django](https://www.djangoproject.com/)<br>
 Open Source Contributors
