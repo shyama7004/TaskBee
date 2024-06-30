@@ -120,4 +120,4 @@ Contributions are always welcome! Here’s how you can contribute:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/shyama7004/TaskBee/blob/main/LICENSE) file for details.
