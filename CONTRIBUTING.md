@@ -68,10 +68,10 @@ If you find any bugs or issues, please report them using GitHub Issues. Provide 
 ---
 ## Development Setup
 ### Prerequisites
-Flutter
-Django
-Python
-pip
+  [![Flutter](https://img.shields.io/badge/Flutter-Flutter.com-8B0000?style=for-the-badge)](https://flutter.dev/docs/get-started/install)
+  [![Django](https://img.shields.io/badge/Django-Django.com-00008B?style=for-the-badge)](https://www.djangoproject.com/download/)
+  [![Python](https://img.shields.io/badge/Python-Python.com-013220?style=for-the-badge)](https://www.python.org/downloads/)
+  [![pip](https://img.shields.io/badge/pip-pip.com-8B8000?style=for-the-badge)](https://pip.pypa.io/en/stable/installation/)
 
 ---
 
