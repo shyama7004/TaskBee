@@ -130,7 +130,7 @@ Navigate to `http://127.0.0.1:8000/` to access the application.
 
 ## API Documentation
 
-For detailed API documentation, refer to [docs/API.md](docs/API.md).
+For detailed API documentation, refer to [docs/API.md](https://github.com/shyama7004/TaskBee/blob/main/backend/docs/API.md).
 
 ## Testing
 
@@ -144,11 +144,11 @@ This will execute the test cases in the `tasks/tests/` directory.
 
 ## Contributing
 
-We welcome contributions! Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.
+We welcome contributions! Please refer to [CONTRIBUTING.md](https://github.com/shyama7004/TaskBee/blob/main/CONTRIBUTING.md) for guidelines on how to contribute to this project.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/shyama7004/TaskBee/blob/main/LICENSE) file for details.
 
 ---
 
