@@ -5,11 +5,11 @@
 </div>
 
 <div align="center">
-  <img src="https://www.logodesign.net/logo/abstract-origami-triangle-672ld.png?nwm=1&nws=1&industry=All&sf=&txt_keyword=IT" alt="TaskBee Logo">
+  <img src="https://github.com/shyama7004/TaskBee/blob/main/abstract-origami-triangle-672ld.png" alt="TaskBee Logo">
 </div>
 
 <div align="center">
-  TaskZen is a task management app built with Flutter and Django, designed to help you manage your daily tasks effortlessly. Set tasks, get reminders, track completion, and celebrate your achievements!
+  TaskBee is a task management app built with Flutter and Django, designed to help you manage your daily tasks effortlessly. Set tasks, get reminders, track completion, and celebrate your achievements!
 </div>
 
 
@@ -38,8 +38,8 @@
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/taskzen.git
-    cd taskzen
+    git clone https://github.com/yourusername/TaskBee.git
+    cd TaskBee
     ```
 
 2. **Backend Setup (Django):**
@@ -69,7 +69,7 @@
 ## 📦 Project Structure
 
 ```plaintext
-taskzen/
+TaskBee/
 │
 ├── backend/          # Django backend
 │   ├── manage.py
@@ -81,3 +81,38 @@ taskzen/
     ├── lib/
     ├── test/
     └── pubspec.yaml
+```
+## 🌟 Features in Development
+**Advanced Task Filtering:** Filter tasks by priority and categories.
+**Sync Across Devices:** Sync tasks and progress across multiple devices.
+**Dark Mode:** Switch to a dark theme for better usability at night.
+## 🤝 Contributing
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+1. Fork the Project.
+2. Create your Feature Branch.
+```
+git checkout -b feature/AmazingFeature
+```
+3. Commit your Changes.
+```
+git commit -m 'Add some AmazingFeature'
+```
+
+4. Push to the Branch.
+```
+git push origin feature/AmazingFeature
+```
+5. Open a Pull Request.
+## 📜 License
+Distributed under the MIT License. See LICENSE for more information.
+
+📧 Contact
+Your Name - your-email@example.com
+
+Project Link: https://github.com/yourusername/taskzen
+
+🙏 Acknowledgements
+Flutter
+Django
+Open Source Contributors
