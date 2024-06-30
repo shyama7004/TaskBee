@@ -4,6 +4,15 @@
 
 <h1 align="center">TaskBee</h1>
 
+<div align="center">
+    <a href="https://x.com/shyama7004">
+        <img src="https://img.shields.io/badge/Developer-Shyama7004-8B0000?style=for-the-badge" alt="Developer">
+    </a>
+</div>
+
+
+
+
 <p align="center">
   TaskBee is a task management app built with Flutter and Django, designed to help you manage your daily tasks effortlessly. Set tasks, get reminders, track completion, and celebrate your achievements!
 </p>
