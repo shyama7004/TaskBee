@@ -1,15 +1,17 @@
-<div class="centered-text">
-    # 📝 TaskZen
+<div align="center"> 
+    <h1>
+    <u>TaskBee</u>
+    </h1>
 </div>
 
-
-<div class="grid-container">
-    <img src="https://www.logodesign.net/logo/abstract-origami-triangle-672ld.png?nwm=1&nws=1&industry=All&sf=&txt_keyword=IT" alt="Centered Image">
+<div align="center">
+  <img src="https://www.logodesign.net/logo/abstract-origami-triangle-672ld.png?nwm=1&nws=1&industry=All&sf=&txt_keyword=IT" alt="TaskBee Logo">
 </div>
 
+<div align="center">
+  TaskZen is a task management app built with Flutter and Django, designed to help you manage your daily tasks effortlessly. Set tasks, get reminders, track completion, and celebrate your achievements!
+</div>
 
-
-TaskZen is a task management app built with Flutter and Django, designed to help you manage your daily tasks effortlessly. Set tasks, get reminders, track completion, and celebrate your achievements!
 
 ## 📲 Features
 
@@ -18,9 +20,10 @@ TaskZen is a task management app built with Flutter and Django, designed to help
 - **Task Organization:** Automatically move incomplete tasks to a different folder.
 - **Celebration Alerts:** Receive congratulations on task completion.
 
-## 📱 Screenshots
+<!--## 📱 Screenshots
 
 <img src="link-to-screenshot1.png" width="200" alt="Home Screen"> <img src="link-to-screenshot2.png" width="200" alt="Task List"> <img src="link-to-screenshot3.png" width="200" alt="Notifications">
+-->
 
 ## 🚀 Getting Started
 
