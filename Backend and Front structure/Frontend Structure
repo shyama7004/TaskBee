@@ -1,0 +1,22 @@
+taskbee/
+├── frontend/               # Flutter frontend directory
+│   ├── android/            # Android-specific files
+│   ├── ios/                # iOS-specific files
+│   ├── lib/                # Main directory for Flutter code
+│   │   ├── src/
+│   │   │   ├── models/     # Data models
+│   │   │   ├── screens/    # UI screens
+│   │   │   ├── widgets/    # Reusable UI components
+│   │   │   ├── services/   # API services and network calls
+│   │   │   ├── utils/      # Utility functions and constants
+│   │   │   ├── main.dart   # Entry point for the application
+│   ├── assets/             # Images, fonts, and other assets
+│   │   ├── images/         # Image files
+│   │   ├── fonts/          # Font files
+│   ├── test/               # Unit and widget tests
+│   │   ├── widget_tests.dart
+│   │   ├── model_tests.dart
+│   ├── pubspec.yaml        # Project dependencies and assets configuration
+│   ├── README.md
+│   ├── .gitignore
+│   └── ...
