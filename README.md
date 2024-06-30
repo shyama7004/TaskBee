@@ -9,9 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="#Features">Features</a> •
+  <a href="#features">Features</a> •
   <a href="#installation">Installation</a> •
-  <a href="https://github.com/shyama7004/AudioZen/blob/main/CONTRIBUTING.md">Contributing</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#contributing">Contributing</a> •
   <a href="#license">License</a> •
   <a href="#contact">Contact</a>
 </p>
@@ -19,7 +20,7 @@
 ---
 
 
-## 📲 Features
+## Features
 
 - **Daily Task Setting:** Create tasks for yourself each day.
 - **Timed Reminders:** Get notified when it's time to complete your tasks.
@@ -66,7 +67,7 @@
     flutter run
     ```
 
-## 📚 Usage
+## Usage
 
 1. **Create Tasks:** Open the app and set tasks for yourself by providing the task title, description, and due time.
 2. **Receive Notifications:** Get timely reminders for your tasks.
@@ -93,7 +94,7 @@ TaskBee/
 **Advanced Task Filtering:** Filter tasks by priority and categories.
 **Sync Across Devices:** Sync tasks and progress across multiple devices.
 **Dark Mode:** Switch to a dark theme for better usability at night.
-## 🤝 Contributing
+## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 1. Fork the Project.
@@ -111,10 +112,10 @@ git commit -m 'Add some AmazingFeature'
 git push origin feature/AmazingFeature
 ```
 5. Open a Pull Request.
-## 📜 License
+## License
 Distributed under the [MIT License](https://github.com/shyama7004/TaskBee/blob/main/LICENSE). See [LICENSE](https://github.com/shyama7004/TaskBee/blob/main/LICENSE) for more information.
 
-## 📧 Contact
+## Contact
 [![Mail](https://img.shields.io/badge/Mail-sujatabisoyi@gmail.com-6b5b95?style=for-the-badge)](sujatabisoyi@gmail.com)
 
 [![Project Link](https://img.shields.io/badge/Project_Link:-https://github.com/shyama7004/TaskBee-6b5b95?style=for-the-badge)](https://github.com/shyama7004/taskzen)
